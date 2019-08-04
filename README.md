@@ -1,4 +1,4 @@
-# ![memo](https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png)# 座右铭
+![memo](https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png)# 座右铭
 
 > 少一些功力主义的追求，多一些不问为什么的坚持
 
