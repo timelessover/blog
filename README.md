@@ -1,8 +1,8 @@
-![memo](https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png)# 座右铭
+# :+1:座右铭
 
 > 少一些功力主义的追求，多一些不问为什么的坚持
 
-## JS基础系列
+## :memo:JS基础系列
 
 [JavaScript基础专题之原型与原型链（一）](https://github.com/timelessover/blog/issues/1)
 
