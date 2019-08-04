@@ -2,7 +2,7 @@
 
 > 少一些功利主义的追求，多一些不为什么的坚持！
 
-## :memo:JavaScript基础专题
+# :memo:JavaScript基础专题
 
 - [JavaScript基础专题之原型与原型链（一）](https://github.com/timelessover/blog/issues/1)
 
