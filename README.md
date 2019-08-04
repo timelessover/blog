@@ -30,6 +30,8 @@
 
 - [JavaScript基础专题之异步（十三）](https://github.com/timelessover/blog/issues/13)
 
+- [JavaScript基础专题完结](https://github.com/timelessover/blog/issues/14)
+
 ## :memo:JavaScript进阶专题
 
 努力更新中..
