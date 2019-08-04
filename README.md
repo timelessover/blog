@@ -1,12 +1,12 @@
-# 座右铭
+# :+1:座右铭
 
-> 少一些功力主义的追求，多一些不问为什么的坚持
+> 少一些功利主义的追求，多一些不为什么的坚持！
 
-## JS基础系列
+## :memo:JavaScript基础专题
 
 + [JavaScript基础专题之原型与原型链（一）](https://github.com/timelessover/blog/issues/1)
 
-+ [JavaScript基础专题之执行上下文和执行栈（二）](https://github.com/timelessover/blog/issues/2)
+- [JavaScript基础专题之执行上下文和执行栈（二）](https://github.com/timelessover/blog/issues/2)
 
 + [JavaScript基础专题之深入执行上下文（三）](https://github.com/timelessover/blog/issues/3)
 
@@ -26,7 +26,11 @@
 
 + [JavaScript基础专题之类型检测（十一）](https://github.com/timelessover/blog/issues/11)
 
-+ [JavaScript基础专题之类型转换（十二）](https://github.com/timelessover/blog/issues/12)
++  [JavaScript基础专题之类型转换（十二）](https://github.com/timelessover/blog/issues/12)
 
 + [JavaScript基础专题之异步（十三）](https://github.com/timelessover/blog/issues/13)
+
+# :memo:JavaScript进阶专题
+
+努力更新中..
 
