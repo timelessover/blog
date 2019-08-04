@@ -1,4 +1,4 @@
-# # ![memo](https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png)座右铭
+# ![memo](https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png)# 座右铭
 
 > 少一些功力主义的追求，多一些不问为什么的坚持
 
@@ -29,4 +29,3 @@
 [JavaScript基础专题之类型转换（十二）](https://github.com/timelessover/blog/issues/12)
 
 [JavaScript基础专题之异步（十三）](https://github.com/timelessover/blog/issues/13)
-
