@@ -48,6 +48,8 @@
 
 - [设计模式专题之代理模式（三）](https://github.com/timelessover/blog/issues/18)
 
+- [设计模式专题之发布-订阅模式（四）](https://github.com/timelessover/blog/issues/19)
+
   </details>
 
 ## HTTP网络专题
