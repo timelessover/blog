@@ -46,7 +46,7 @@
 - [设计模式专题之策略模式（二）](https://github.com/timelessover/blog/issues/17)
 - [设计模式专题之代理模式（三）](https://github.com/timelessover/blog/issues/18)
 - [设计模式专题之发布-订阅模式（四）](https://github.com/timelessover/blog/issues/19)
-- [设计模式专题之观察者模式（五）]（https://github.com/timelessover/blog/issues/20）
+- [设计模式专题之观察者模式（五）](https://github.com/timelessover/blog/issues/20)
 
   </details>
 
