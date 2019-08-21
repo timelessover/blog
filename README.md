@@ -51,6 +51,8 @@
 - [设计模式专题之工厂模式（六）](https://github.com/timelessover/blog/issues/21)
 - [设计模式专题之享元模式（七）](https://github.com/timelessover/blog/issues/22)
 - [设计模式专题之中介者模式（八）](https://github.com/timelessover/blog/issues/23)
+- [设计模式专题之模板方法模式（九）](https://github.com/timelessover/blog/issues/24)
+- [设计模式专题之状态模式（十）](https://github.com/timelessover/blog/issues/25)
 </details>
 
 ## HTTP网络专题
