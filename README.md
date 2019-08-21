@@ -48,7 +48,9 @@
 - [设计模式专题之代理模式（三）](https://github.com/timelessover/blog/issues/18)
 - [设计模式专题之发布-订阅模式（四）](https://github.com/timelessover/blog/issues/19)
 - [设计模式专题之观察者模式（五）](https://github.com/timelessover/blog/issues/20)
-
+- [设计模式专题之工厂模式（六）](https://github.com/timelessover/blog/issues/21)
+- [设计模式专题之享元模式（七）](https://github.com/timelessover/blog/issues/22)
+- [设计模式专题之中介者模式（八）](https://github.com/timelessover/blog/issues/23)
 </details>
 
 ## HTTP网络专题
