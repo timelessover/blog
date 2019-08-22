@@ -53,6 +53,8 @@
 - [设计模式专题之中介者模式（八）](https://github.com/timelessover/blog/issues/23)
 - [设计模式专题之模板方法模式（九）](https://github.com/timelessover/blog/issues/24)
 - [设计模式专题之状态模式（十）](https://github.com/timelessover/blog/issues/25)
+- [设计模式专题之命令模式（十一）](https://github.com/timelessover/blog/issues/26)
+- [设计模式专题之组合模式（十二）](https://github.com/timelessover/blog/issues/27)
 </details>
 
 ## HTTP网络专题
