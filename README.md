@@ -55,6 +55,8 @@
 - [设计模式专题之状态模式（十）](https://github.com/timelessover/blog/issues/25)
 - [设计模式专题之命令模式（十一）](https://github.com/timelessover/blog/issues/26)
 - [设计模式专题之组合模式（十二）](https://github.com/timelessover/blog/issues/27)
+- [设计模式专题之装饰器模式（十三）](https://github.com/timelessover/blog/issues/28)
+- [设计模式专题之责任链模式（十四）](https://github.com/timelessover/blog/issues/29)
 </details>
 
 ## HTTP网络专题
