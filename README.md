@@ -77,7 +77,7 @@
 ## 📝操作系统专题
 
 <details>
-  <summary>📝操作系统专题</summary>
+  <summary>操作系统专题</summary>
 
 - [操作系统专题之操作系统基础（一）](https://github.com/timelessover/blog/issues/31)
 
