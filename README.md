@@ -74,9 +74,15 @@
 
 ...努力更新中
 
-## 操作系统专题
+## 📝操作系统专题
 
-...努力更新中
+<details>
+  <summary>📝操作系统专题</summary>
+
+- [操作系统专题之操作系统基础（一）](https://github.com/timelessover/blog/issues/31)
+
+</details>
+
 
 ## Vue专题
 
