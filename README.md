@@ -57,8 +57,8 @@
 - [设计模式专题之组合模式（十二）](https://github.com/timelessover/blog/issues/27)
 - [设计模式专题之装饰器模式（十三）](https://github.com/timelessover/blog/issues/28)
 - [设计模式专题之责任链模式（十四）](https://github.com/timelessover/blog/issues/29)
-- [设计模式专题之迭代器模式（十五）](https://github.com/timelessover/blog/issues/29)
-- [设计模式专题之适配器模式（十六）](https://github.com/timelessover/blog/issues/30)
+- [设计模式专题之迭代器模式（十五）](https://github.com/timelessover/blog/issues/30)
+- [设计模式专题之适配器模式（十六）](https://github.com/timelessover/blog/issues/31)
 
 </details>
 
@@ -79,7 +79,7 @@
 <details>
   <summary>操作系统专题</summary>
 
-- [操作系统专题之操作系统基础（一）](https://github.com/timelessover/blog/issues/31)
+- [操作系统专题之操作系统基础（一）](https://github.com/timelessover/blog/issues/32)
 
 </details>
 
