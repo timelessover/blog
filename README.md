@@ -89,7 +89,7 @@
 <details>
   <summary>Vue专题</summary>
 
-- [Vue专题之生命周期（一）](https://github.com/timelessover/blog/issues/32)
+- [Vue专题之生命周期（一）](https://github.com/timelessover/blog/issues/34)
 
 </details>
 
