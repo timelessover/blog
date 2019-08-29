@@ -86,7 +86,12 @@
 
 ## Vue专题
 
-...努力更新中
+<details>
+  <summary>操作系统专题</summary>
+
+- [Vue专题之生命周期（一）](https://github.com/timelessover/blog/issues/32)
+
+</details>
 
 ## React专题
 
