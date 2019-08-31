@@ -69,7 +69,7 @@
 ## 📝数据结构专题
 
 <details>
-  <summary>数据结构</summary>
+  <summary>数据结构专题</summary>
 
 - [数据结构专题之数组与字符串（一）](https://github.com/timelessover/blog/issues/35)
 - [数据结构专题之栈与队列（二）](https://github.com/timelessover/blog/issues/36)
@@ -85,10 +85,12 @@
 ## 📝操作系统专题
 
 <details>
-  <summary>操作系统</summary>
+  <summary>操作系统专题</summary>
 
 - [操作系统专题之操作系统基础（一）](https://github.com/timelessover/blog/issues/32)
 - [操作系统专题之进程与线程（二）](https://github.com/timelessover/blog/issues/33)
+- [操作系统专题之内存管理（三）](https://github.com/timelessover/blog/issues/33)
+- [操作系统专题之设备管理（四）](https://github.com/timelessover/blog/issues/33)
 </details>
 
 
