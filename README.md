@@ -2,10 +2,8 @@
 
 > 少一些功利主义的追求，多一些不为什么的坚持！
 
-## 📝JavaScript基础专题
-
 <details>
-  <summary>JavaScript基础专题</summary>
+  <summary📝>JavaScript基础专题</summary>
 
 - [JavaScript基础专题之原型与原型链（一）](https://github.com/timelessover/blog/issues/1)
 - [JavaScript基础专题之执行上下文和执行栈（二）](https://github.com/timelessover/blog/issues/2)
@@ -122,8 +120,8 @@
 
 ## 前端工程化
 <details>
-  <summary>Vue专题</summary>
+  <summary>前端工程化</summary>
 
-- [Git操作](https://github.com/timelessover/blog/issues/41)
+- [Git总结](https://github.com/timelessover/blog/issues/41)
 
 </details>
