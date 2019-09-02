@@ -65,7 +65,7 @@
 
 
 <details>
-  <summary>Vue专题</summary>
+  <summary>HTTP网络专题</summary>
 
 - [HTTP专题之网络概述（一）](https://github.com/timelessover/blog/issues/43)
 - [HTTP专题之HTTP基础（二）](https://github.com/timelessover/blog/issues/44)
