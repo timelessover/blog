@@ -104,8 +104,8 @@
 
 - [操作系统专题之操作系统基础（一）](https://github.com/timelessover/blog/issues/32)
 - [操作系统专题之进程与线程（二）](https://github.com/timelessover/blog/issues/33)
-- [操作系统专题之内存管理（三）](https://github.com/timelessover/blog/issues/33)
-- [操作系统专题之设备管理（四）](https://github.com/timelessover/blog/issues/33)
+- [操作系统专题之内存管理（三）](https://github.com/timelessover/blog/issues/39)
+- [操作系统专题之设备管理（四）](https://github.com/timelessover/blog/issues/40)
 </details>
 
 
