@@ -58,7 +58,15 @@
 - [设计模式专题之责任链模式（十四）](https://github.com/timelessover/blog/issues/29)
 - [设计模式专题之迭代器模式（十五）](https://github.com/timelessover/blog/issues/30)
 - [设计模式专题之适配器模式（十六）](https://github.com/timelessover/blog/issues/31)
-
+- [设计模式专题之访问者模式（十七）](https://github.com/timelessover/blog/issues/47)
+- [设计模式专题之解释器模式（十八）](https://github.com/timelessover/blog/issues/48)
+- [设计模式专题之桥接模式（十九）](https://github.com/timelessover/blog/issues/49)
+- [设计模式专题之建造者模式（二十）](https://github.com/timelessover/blog/issues/50)
+- [设计模式专题之外观模式（二十一）](https://github.com/timelessover/blog/issues/51)
+- [设计模式专题之备忘录模式（二十二）](https://github.com/timelessover/blog/issues/52)
+- [设计模式专题之原型模式（二十三）](https://github.com/timelessover/blog/issues/53)
+- [设计模式专题之MV * 模式（二十四）](https://github.com/timelessover/blog/issues/54)
+- [设计模式总结](https://github.com/timelessover/blog/issues/55)
 </details>
 
 ## HTTP网络专题
@@ -70,7 +78,7 @@
 - [HTTP专题之网络概述（一）](https://github.com/timelessover/blog/issues/43)
 - [HTTP专题之HTTP基础（二）](https://github.com/timelessover/blog/issues/44)
 - [HTTP专题之HTTP应用（三）](https://github.com/timelessover/blog/issues/45)
-- [HTTP专题之前端跨域（四）](https://github.com/timelessover/blog/issues/46)
+- [HTTP专题之前端跨域九种方式（四）](https://github.com/timelessover/blog/issues/46)
 </details>
 
 ## 📝数据结构专题
