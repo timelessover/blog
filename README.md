@@ -66,7 +66,7 @@
 - [设计模式专题之备忘录模式（二十二）](https://github.com/timelessover/blog/issues/52)
 - [设计模式专题之原型模式（二十三）](https://github.com/timelessover/blog/issues/53)
 - [设计模式专题之MV * 模式（二十四）](https://github.com/timelessover/blog/issues/54)
-- [设计模式总结](https://github.com/timelessover/blog/issues/55)
+- [设计模式总结](https://github.com/timelessover/blog/issues/)
 </details>
 
 ## HTTP网络专题
@@ -90,6 +90,7 @@
 - [数据结构专题之栈与队列（二）](https://github.com/timelessover/blog/issues/36)
 - [数据结构专题之链表（三）](https://github.com/timelessover/blog/issues/37)
 - [数据结构专题之哈希表（四）](https://github.com/timelessover/blog/issues/38)
+- [数据结构专题之树（五）](https://github.com/timelessover/blog/issues/55)
 
 </details>
 
