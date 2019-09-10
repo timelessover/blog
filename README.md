@@ -2,7 +2,6 @@
 
 > 少一些功利主义的追求，多一些不为什么的坚持！
 
-## 📝JavaScript基础专题
 <details>
   <summary>JavaScript基础专题</summary>
 
@@ -23,8 +22,6 @@
 
 </details>
 
-## 📝JavaScript进阶专题
-
 <details>
   <summary>JavaScript进阶专题</summary>
 
@@ -32,12 +29,14 @@
 
   </details>
 
-## ES6专题
+<details>
+  <summary>ES6专题</summary>
 
-...努力更新中
+- [JavaScript进阶系列之数组去重（一）](https://github.com/timelessover/blog/issues/15)
+
+  </details>
 
 
-## 📝设计模式专题
 
 <details>
   <summary>设计模式专题</summary>
@@ -69,7 +68,6 @@
 - [设计模式总结](https://github.com/timelessover/blog/issues/56)
 </details>
 
-## HTTP网络专题
 
 
 <details>
@@ -80,8 +78,6 @@
 - [HTTP专题之HTTP应用（三）](https://github.com/timelessover/blog/issues/45)
 - [HTTP专题之前端跨域九种方式（四）](https://github.com/timelessover/blog/issues/46)
 </details>
-
-## 📝数据结构专题
 
 <details>
   <summary>数据结构专题</summary>
@@ -94,11 +90,17 @@
 
 </details>
 
-## 算法专题
+<details>
+  <summary>算法专题</summary>
 
-...努力更新中
+- [数据结构专题之数组与字符串（一）](https://github.com/timelessover/blog/issues/35)
+- [数据结构专题之栈与队列（二）](https://github.com/timelessover/blog/issues/36)
+- [数据结构专题之链表（三）](https://github.com/timelessover/blog/issues/37)
+- [数据结构专题之哈希表（四）](https://github.com/timelessover/blog/issues/38)
+- [数据结构专题之树（五）](https://github.com/timelessover/blog/issues/55)
 
-## 📝操作系统专题
+</details>
+
 
 <details>
   <summary>操作系统专题</summary>
@@ -110,7 +112,6 @@
 </details>
 
 
-## 📝Vue专题
 
 <details>
   <summary>Vue专题</summary>
@@ -119,24 +120,30 @@
 
 </details>
 
-## React专题
 
-...努力更新中
+<details>
+  <summary>React专题</summary>
+
+</details>
 
 
-## Node专题
 
-...努力更新中
+<details>
+  <summary>Node专题</summary>
 
-## Web性能优化
+</details>
 
-...努力更新中
 
-## Web安全
+<details>
+  <summary>Web性能优化</summary>
 
-...努力更新中
+</details>
 
-## 📝前端工程化
+<details>
+  <summary>Web安全化</summary>
+
+</details>
+
 <details>
   <summary>前端工程化</summary>
 
