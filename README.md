@@ -66,7 +66,7 @@
 - [设计模式专题之备忘录模式（二十二）](https://github.com/timelessover/blog/issues/52)
 - [设计模式专题之原型模式（二十三）](https://github.com/timelessover/blog/issues/53)
 - [设计模式专题之MV * 模式（二十四）](https://github.com/timelessover/blog/issues/54)
-- [设计模式总结](https://github.com/timelessover/blog/issues/)
+- [设计模式总结](https://github.com/timelessover/blog/issues/56)
 </details>
 
 ## HTTP网络专题
