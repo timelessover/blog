@@ -103,11 +103,6 @@
 <details>
   <summary>算法专题</summary>
 
-- [数据结构专题之数组与字符串（一）](https://github.com/timelessover/blog/issues/35)
-- [数据结构专题之栈与队列（二）](https://github.com/timelessover/blog/issues/36)
-- [数据结构专题之链表（三）](https://github.com/timelessover/blog/issues/37)
-- [数据结构专题之哈希表（四）](https://github.com/timelessover/blog/issues/38)
-- [数据结构专题之树（五）](https://github.com/timelessover/blog/issues/55)
 
 </details>
 
