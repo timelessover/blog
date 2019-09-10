@@ -39,7 +39,7 @@
 
   </details>
   <details>
-  <summary>TyptScript专题</summary>
+  <summary>TypeScript专题</summary>
 
 
   </details>
