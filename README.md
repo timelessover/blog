@@ -32,7 +32,6 @@
 <details>
   <summary>ES6专题</summary>
 
-- [JavaScript进阶系列之数组去重（一）](https://github.com/timelessover/blog/issues/15)
 
   </details>
 
