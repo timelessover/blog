@@ -97,6 +97,7 @@
 - [数据结构专题之链表（三）](https://github.com/timelessover/blog/issues/37)
 - [数据结构专题之哈希表（四）](https://github.com/timelessover/blog/issues/38)
 - [数据结构专题之树（五）](https://github.com/timelessover/blog/issues/55)
+- [数据结构专题之树（六）](https://github.com/timelessover/blog/issues/57)
 
 </details>
 
