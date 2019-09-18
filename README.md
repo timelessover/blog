@@ -3,7 +3,9 @@
 > 少一些功利主义的追求，多一些不为什么的坚持！
 
 ## HTML
+...这部分准备总结下web标准
 ## CSS
+...CSS书记和常用技巧
 ## JavaScript
 
 <details>
