@@ -99,14 +99,17 @@
 - [数据结构专题之链表（三）](https://github.com/timelessover/blog/issues/37)
 - [数据结构专题之哈希表（四）](https://github.com/timelessover/blog/issues/38)
 - [数据结构专题之树（五）](https://github.com/timelessover/blog/issues/55)
-- [数据结构专题之树（六）](https://github.com/timelessover/blog/issues/57)
+- [数据结构专题之图（六）](https://github.com/timelessover/blog/issues/57)
 
 </details>
 
 <details>
   <summary>算法专题</summary>
-
-
+- [算法专题之递归（一）](https://github.com/timelessover/blog/issues/58)
+- [算法专题之二分查找（二）](https://github.com/timelessover/blog/issues/59)
+- [算法专题之十大排序算法（三）](https://github.com/timelessover/blog/issues/60)
+- [算法专题之动态规划（四）](https://github.com/timelessover/blog/issues/60)
+- [算法专题之贪心算法（五）](https://github.com/timelessover/blog/issues/60)
 </details>
 
 
