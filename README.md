@@ -111,6 +111,7 @@
 - [算法专题之十大排序算法（三）](https://github.com/timelessover/blog/issues/60)
 - [算法专题之动态规划（四）](https://github.com/timelessover/blog/issues/60)
 - [算法专题之贪心算法（五）](https://github.com/timelessover/blog/issues/60)
+- [算法专题之回溯算法（五）](https://github.com/timelessover/blog/issues/60)
 
 </details>
 
