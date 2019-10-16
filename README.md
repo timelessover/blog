@@ -16,7 +16,7 @@
 - [JavaScript基础专题之深入执行上下文（三）](https://github.com/timelessover/blog/issues/3)
 - [JavaScript基础专题之闭包（四）](https://github.com/timelessover/blog/issues/4)
 - [JavaScript基础专题之参数传递（五）](https://github.com/timelessover/blog/issues/5)
-- [JavaScript基础专题之手动实现call、apply、bind（六）](https://github.com/timelessover/blog/issues/6)
+- [JavaScript基础专题之实现自己的call、apply、bind（六）](https://github.com/timelessover/blog/issues/6)
 - [JavaScript基础专题之类数组对象（七）](https://github.com/timelessover/blog/issues/7)
 - [JavaScript基础专题之实现自己的new Object（八）](https://github.com/timelessover/blog/issues/8)
 - [JavaScript基础专题之创建对象几种方式及优缺点（九）](https://github.com/timelessover/blog/issues/9)
@@ -34,7 +34,7 @@
 - [JavaScript进阶系列之数组去重（一）](https://github.com/timelessover/blog/issues/15)
 - [JavaScript进阶系列之节流函数（二）](https://github.com/timelessover/blog/issues/61)
 - [JavaScript进阶系列之防抖函数（三）](https://github.com/timelessover/blog/issues/62)
-- [JavaScript进阶系列之类型相等（四)](https://github.com/timelessover/blog/issues/63)
+- [JavaScript进阶系列之类型相等（四）](https://github.com/timelessover/blog/issues/63)
 
 </details>
 
