@@ -35,6 +35,7 @@
 - [JavaScript进阶系列之节流函数（二）](https://github.com/timelessover/blog/issues/61)
 - [JavaScript进阶系列之防抖函数（三）](https://github.com/timelessover/blog/issues/62)
 - [JavaScript进阶系列之类型相等（四）](https://github.com/timelessover/blog/issues/63)
+- [JavaScript进阶系列之深浅拷贝（五）](https://github.com/timelessover/blog/issues/64)
 
 </details>
 
