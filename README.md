@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary>JavaScript进阶专题</summary>
+  <summary>JavaScript进阶专题（进行中）</summary>
 
 - [JavaScript进阶系列之数组去重（一）](https://github.com/timelessover/blog/issues/15)
 - [JavaScript进阶系列之节流函数（二）](https://github.com/timelessover/blog/issues/61)
