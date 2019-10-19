@@ -3,13 +3,23 @@
 > 少一些功利主义的追求，多一些不为什么的坚持！
 
 ## HTML
-...这部分准备总结下web标准
+
+<details>
+  <summary>你不知道的HTML</summary>
+
+</details>
+
 ## CSS
-...CSS书记和常用技巧
+
+<details>
+  <summary>CSS世界</summary>
+
+</details>
+
 ## JavaScript
 
 <details>
-  <summary>JavaScript基础专题</summary>
+  <summary>JavaScript基础专题（完结）</summary>
 
 - [JavaScript基础专题之原型与原型链（一）](https://github.com/timelessover/blog/issues/1)
 - [JavaScript基础专题之执行上下文和执行栈（二）](https://github.com/timelessover/blog/issues/2)
@@ -57,7 +67,7 @@
 
 
 <details>
-  <summary>设计模式专题</summary>
+  <summary>设计模式专题（完结）</summary>
 
 - [设计模式专题之单例模式（一）](https://github.com/timelessover/blog/issues/16)
 - [设计模式专题之策略模式（二）](https://github.com/timelessover/blog/issues/17)
@@ -89,7 +99,7 @@
 
 
 <details>
-  <summary>HTTP网络专题</summary>
+  <summary>HTTP网络专题（进行中）</summary>
 
 - [HTTP专题之网络概述（一）](https://github.com/timelessover/blog/issues/43)
 - [HTTP专题之HTTP基础（二）](https://github.com/timelessover/blog/issues/44)
@@ -98,7 +108,7 @@
 </details>
 
 <details>
-  <summary>数据结构专题</summary>
+  <summary>数据结构专题（进行中）</summary>
 
 - [数据结构专题之数组与字符串（一）](https://github.com/timelessover/blog/issues/35)
 - [数据结构专题之栈与队列（二）](https://github.com/timelessover/blog/issues/36)
@@ -110,7 +120,7 @@
 </details>
 
 <details>
-  <summary>算法专题</summary>
+  <summary>算法专题（进行中）</summary>
   
 - [算法专题之递归（一)](https://github.com/timelessover/blog/issues/58)
 - [算法专题之二分查找（二）](https://github.com/timelessover/blog/issues/59)
@@ -123,7 +133,7 @@
 
 
 <details>
-  <summary>操作系统专题</summary>
+  <summary>操作系统专题（完结）</summary>
 
 - [操作系统专题之操作系统基础（一）](https://github.com/timelessover/blog/issues/32)
 - [操作系统专题之进程与线程（二）](https://github.com/timelessover/blog/issues/33)
@@ -134,7 +144,7 @@
 ## 前端框架
 
 <details>
-  <summary>Vue专题</summary>
+  <summary>Vue专题（进行中）</summary>
 
 - [Vue专题之生命周期（一）](https://github.com/timelessover/blog/issues/34)
 
@@ -163,7 +173,7 @@
 
 ## 大前端
 <details>
-  <summary>小程序专题</summary>
+  <summary>小程序专题（进行中）</summary>
 
 </details>
 <details>
@@ -186,7 +196,7 @@
 </details>
 
 <details>
-  <summary>前端工程化</summary>
+  <summary>前端工程化（进行中）</summary>
 
 - [Git总结](https://github.com/timelessover/blog/issues/41)
 
