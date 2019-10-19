@@ -31,12 +31,12 @@
 <details>
   <summary>JavaScript进阶专题（进行中）</summary>
 
-- [JavaScript进阶系列之数组去重（一）](https://github.com/timelessover/blog/issues/15)
-- [JavaScript进阶系列之节流函数（二）](https://github.com/timelessover/blog/issues/61)
-- [JavaScript进阶系列之防抖函数（三）](https://github.com/timelessover/blog/issues/62)
-- [JavaScript进阶系列之类型相等（四）](https://github.com/timelessover/blog/issues/63)
-- [JavaScript进阶系列之深浅拷贝（五）](https://github.com/timelessover/blog/issues/64)
-- [JavaScript进阶系列之数组扁平化（六）](https://github.com/timelessover/blog/issues/65)
+- [JavaScript进阶专题之数组去重（一）](https://github.com/timelessover/blog/issues/15)
+- [JavaScript进阶专题之节流函数（二）](https://github.com/timelessover/blog/issues/61)
+- [JavaScript进阶专题之防抖函数（三）](https://github.com/timelessover/blog/issues/62)
+- [JavaScript进阶专题之类型相等（四）](https://github.com/timelessover/blog/issues/63)
+- [JavaScript进阶专题之深浅拷贝（五）](https://github.com/timelessover/blog/issues/64)
+- [JavaScript进阶专题之数组扁平化（六）](https://github.com/timelessover/blog/issues/65)
 
 
 </details>
