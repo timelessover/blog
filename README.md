@@ -47,6 +47,7 @@
 - [JavaScript进阶专题之类型相等（四）](https://github.com/timelessover/blog/issues/63)
 - [JavaScript进阶专题之深浅拷贝（五）](https://github.com/timelessover/blog/issues/64)
 - [JavaScript进阶专题之数组扁平化（六）](https://github.com/timelessover/blog/issues/65)
+- [JavaScript进阶专题之乱序数组（七）](https://github.com/timelessover/blog/issues/66)
 
 
 </details>
