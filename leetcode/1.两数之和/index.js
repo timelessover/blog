@@ -1,4 +1,5 @@
 
+// 时间复杂度O(n2)
 var twoSum = function (nums, target) {
     let lens = nums.length
     let result;
@@ -11,7 +12,7 @@ var twoSum = function (nums, target) {
         }
     }
 };
-
+// 时间复杂度O(n)
 var twoSum = function (nums, target) {
     let numsObj = {}
     for (let i = 0; i < nums.length; i++) {
