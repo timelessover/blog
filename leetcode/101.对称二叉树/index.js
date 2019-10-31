@@ -7,7 +7,7 @@ var isSymmetric = function (root) {
         if (left == null && right == null) {
             return true
         }
-        return left.val == left.right && Symmetric(left.left, right.right) && Symmetric(right.right, left.left)
+        return left.left == left.right && Symmetric(left.left, right.right) && Symmetric(right.right, left.left)
     }
     return Symmetric(root.left, root.right)
 };
