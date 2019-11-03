@@ -48,6 +48,7 @@
 - [JavaScript进阶专题之深浅拷贝（五）](https://github.com/timelessover/blog/issues/64)
 - [JavaScript进阶专题之数组扁平化（六）](https://github.com/timelessover/blog/issues/65)
 - [JavaScript进阶专题之乱序数组（七）](https://github.com/timelessover/blog/issues/66)
+- [JavaScript进阶专题之函数式编程（八）](https://github.com/timelessover/blog/issues/67)
 
 
 </details>
