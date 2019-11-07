@@ -3,35 +3,32 @@
  * @param {number} k
  * @return {number[]}
  */
-var topKFrequent = function(nums, k) {
+var topKFrequent = function (nums, k) {
     let hash = {}
-    let countArr = []
-    let len = nums.length
-    for (let i = 0; i < len; i++) {
-        if(!hash[nums[i]]){
-            hash[nums[i]] = 1
-        }else{
-            hash[nums[i]]++
+    for (let i = 0; i < nums.length; i++) {
+        if (hash[nums[i]]) {
+            hash[nums[i]]++;
+        } else {
+            hash[nums[i]] = 1;
         }
     }
-    for(key in hash){
-        countArr.push(hash[key])
-    }
-    for(let j = 0;j<countArr.length-1;j++){
-        for(let i = 0;i<countArr.length-1-i;i++){
-            if(countArr[i]<countArr[i-1]){
-                [countArr[i-1],countArr[i]] = [countArr[i],countArr[i-1]]
-            }
-        }
-    }
+    // 对象变为[[key,value]]数组
+    let sortHash = Object.entries(hash).sort((a, b) => b[1] - a[1])
     let result = []
-    while(k){
-        if(countArr[countArr.length]>countArr[countArr.length]){
-            
-        }
-        countArr.length--
-        k--
+    for (let i = 0; i < k; i++) {
+        result.push(sortHash[i][0])
     }
-    
+    return result
 };
-topKFrequent([1,1,1,2,2,3],2)
+
+var topKFrequent = function (nums, k) {
+    let map = new Map;
+    for (let i = 0; i < nums.length; i++) {
+        if (map.get(nums[i])) {
+            map.set(nums[i], map.get(nums[i]) + 1);
+        } else {
+            map.set(nums[i], 1);
+        }
+    }
+    return [...map.entries()].sort((a, b) => b[1] - a[1]).slice(0, k).map(v => v[0])
+};
