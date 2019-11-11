@@ -12,7 +12,6 @@ var rob = function (nums) {
         let temp = currMax
         // 当前最大值为 max[2] = max[0] + nums[i] 与 max[1]作对比
         currMax = Math.max(prevMax + nums[i],currMax)
-        console.log(currMax)
         prevMax = temp 
     }
     return currMax
