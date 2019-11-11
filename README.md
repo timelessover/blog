@@ -49,13 +49,12 @@
 - [JavaScript进阶专题之数组扁平化（六）](https://github.com/timelessover/blog/issues/65)
 - [JavaScript进阶专题之乱序数组（七）](https://github.com/timelessover/blog/issues/66)
 - [JavaScript进阶专题之函数式编程（八）](https://github.com/timelessover/blog/issues/67)
-- [JavaScript进阶专题之完结（九）](https://github.com/timelessover/blog/issues/68)
 
 </details>
 
 <details>
-  <summary>ES6专题</summary>
-
+  <summary>ES6专题（进行中）</summary>
+- [ES6专题之变量声明那些事（一）](https://github.com/timelessover/blog/issues/68)
 
   </details>
   <details>
