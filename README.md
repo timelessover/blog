@@ -49,7 +49,7 @@
 - [JavaScript进阶专题之数组扁平化（六）](https://github.com/timelessover/blog/issues/65)
 - [JavaScript进阶专题之乱序数组（七）](https://github.com/timelessover/blog/issues/66)
 - [JavaScript进阶专题之函数式编程（八）](https://github.com/timelessover/blog/issues/67)
-
+- [JavaScript进阶专题之完结（九）](https://github.com/timelessover/blog/issues/68)
 
 </details>
 
@@ -165,6 +165,10 @@
 
 </details>
 <details>
+  <summary>TypeScript专题</summary>
+
+</details>
+<details>
   <summary>Python专题</summary>
 
 </details>
@@ -189,12 +193,12 @@
 
 ## 其他
 <details>
-  <summary>Web性能优化</summary>
+  <summary>Web性能优化与安全</summary>
 
 </details>
 
 <details>
-  <summary>Web安全化</summary>
+  <summary>浏览器工作原理</summary>
 </details>
 
 <details>
