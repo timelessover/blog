@@ -164,10 +164,7 @@
   <summary>Node专题</summary>
 
 </details>
-<details>
-  <summary>TypeScript专题</summary>
 
-</details>
 <details>
   <summary>Python专题</summary>
 
