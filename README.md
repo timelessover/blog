@@ -50,12 +50,12 @@
 - [JavaScript进阶专题之乱序数组（七）](https://github.com/timelessover/blog/issues/66)
 - [JavaScript进阶专题之函数式编程（八）](https://github.com/timelessover/blog/issues/67)
 
-
 </details>
 
 <details>
-  <summary>ES6专题</summary>
-
+  <summary>ES6专题（进行中）</summary>
+  
+- [ES6专题之变量声明那些事（一）](https://github.com/timelessover/blog/issues/68)
 
   </details>
   <details>
@@ -164,12 +164,17 @@
   <summary>Node专题</summary>
 
 </details>
+
 <details>
   <summary>Python专题</summary>
 
 </details>
 <details>
   <summary>Golang专题</summary>
+
+</details>
+<details>
+  <summary>数据库专题</summary>
 
 </details>
 
@@ -189,12 +194,15 @@
 
 ## 其他
 <details>
-  <summary>Web性能优化</summary>
+  <summary>Web性能优化与安全</summary>
 
 </details>
 
 <details>
-  <summary>Web安全化</summary>
+  <summary>浏览器工作原理</summary>
+
+- [Chrome架构（一）](https://github.com/timelessover/blog/issues/68)
+
 </details>
 
 <details>
