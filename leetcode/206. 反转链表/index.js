@@ -25,14 +25,15 @@ var reverseList = function(head) {
 };
 
 var reverseList = function(head) {
-    if(!head || !head.next) return head;
-    let ptr = head.next;
-    head.next = null;
-    while(ptr){
-        let temp = ptr.next;
-        ptr.next = head;
-        head = ptr;
-        ptr = temp;
+    if(!head || !head.next) return head
+    let prev = null
+    let curr = head
+    while(curr){
+        let temp = curr.next
+        curr.next = prev
+
+        prev = curr
+        curr = temp
     }
-    return head;
+    return prev
 };
