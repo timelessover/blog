@@ -29,11 +29,11 @@ var reverseList = function(head) {
     let prev = null
     let curr = head
     while(curr){
-        let temp = curr.next
+        let temp = curr
         curr.next = prev
-
-        prev = curr
-        curr = temp
+        
+        curr = curr.next
+        prev = temp
     }
-    return prev
+    return curr
 };
