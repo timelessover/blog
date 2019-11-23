@@ -51,7 +51,8 @@
 <details>
   <summary>ES6专题（进行中）</summary>
   
-- [ES6专题之从Babel编译分析 const 和 let ](https://github.com/timelessover/blog/issues/69)
+- [ES6专题之从 Babel 编译分析 const 和 let（一）](https://github.com/timelessover/blog/issues/69)
+- [ES6专题之从 Babel 编译分析解构赋值（二）](https://github.com/timelessover/blog/issues/69)
 
   </details>
   <details>
