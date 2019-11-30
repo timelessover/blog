@@ -56,7 +56,7 @@
 - [ES6专题之从 Babel 编译分析字符串模板（三）](https://github.com/timelessover/blog/issues/71)
 - [ES6专题之浅析箭头函数（四）](https://github.com/timelessover/blog/issues/72)
 - [ES6专题之从 Babel 编译分析扩展运算符（五）](https://github.com/timelessover/blog/issues/73)
-
+- [ES6专题之浅析 Symbol 类型（六）](https://github.com/timelessover/blog/issues/74)
 </details>
 
 <details>
