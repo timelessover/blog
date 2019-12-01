@@ -57,7 +57,9 @@
 - [ES6专题之浅析箭头函数（四）](https://github.com/timelessover/blog/issues/72)
 - [ES6专题之从 Babel 编译分析扩展运算符（五）](https://github.com/timelessover/blog/issues/73)
 - [ES6专题之浅析 Symbol 类型（六）](https://github.com/timelessover/blog/issues/74)
-- [ES6专题之 Iterator（遍历器） 实战（七）](https://github.com/timelessover/blog/issues/74)
+- [ES6专题之 Iterator（遍历器） 实战（七）](https://github.com/timelessover/blog/issues/75)
+- [ES6专题之 Set 与 Map 数据结构（八）](https://github.com/timelessover/blog/issues/76)
+
 
 
 </details>
