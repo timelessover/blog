@@ -59,7 +59,7 @@
 - [ES6专题之浅析 Symbol 类型（六）](https://github.com/timelessover/blog/issues/74)
 - [ES6专题之 Iterator（遍历器） 实战（七）](https://github.com/timelessover/blog/issues/75)
 - [ES6专题之 Set 与 Map 数据结构（八）](https://github.com/timelessover/blog/issues/76)
-
+- [ES6专题之从浏览器运行机制理解异步（九）](https://github.com/timelessover/blog/issues/77)
 
 
 </details>
