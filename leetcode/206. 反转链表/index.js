@@ -16,7 +16,8 @@
  */
 var reverseList = function(head) {
     if (!head || !head.next) return head
-    
+    // nk.next.next = nk
+    // nk.next = null
     let root = reverseList(head.next)
     head.next.next = head
     head.next = null
@@ -29,11 +30,12 @@ var reverseList = function(head) {
     let prev = null
     let curr = head
     while(curr){
-        let temp = curr
+        // 必须保存起来
+        let temp = curr.next
         curr.next = prev
         
-        curr = curr.next
-        prev = temp
+        prev = curr
+        curr = temp
     }
-    return curr
+    return prev
 };
