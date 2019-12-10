@@ -1,7 +1,3 @@
-# :+1:座右铭
-
-> 少一些功利主义的追求，多一些不为什么的坚持！
-
 ## HTML
 
 <details>
@@ -55,10 +51,20 @@
 <details>
   <summary>ES6专题（进行中）</summary>
   
-- [ES6专题之从Babel编译分析 const 和 let ](https://github.com/timelessover/blog/issues/69)
+- [ES6专题之从 Babel 编译分析 const 和 let（一）](https://github.com/timelessover/blog/issues/69)
+- [ES6专题之从 Babel 编译分析解构赋值（二）](https://github.com/timelessover/blog/issues/70)
+- [ES6专题之从 Babel 编译分析字符串模板（三）](https://github.com/timelessover/blog/issues/71)
+- [ES6专题之浅析箭头函数（四）](https://github.com/timelessover/blog/issues/72)
+- [ES6专题之从 Babel 编译分析扩展运算符（五）](https://github.com/timelessover/blog/issues/73)
+- [ES6专题之浅析 Symbol 类型（六）](https://github.com/timelessover/blog/issues/74)
+- [ES6专题之 Iterator（遍历器） 实战（七）](https://github.com/timelessover/blog/issues/75)
+- [ES6专题之 Set 与 Map 数据结构（八）](https://github.com/timelessover/blog/issues/76)
+- [ES6专题之从浏览器运行机制理解异步（九）](https://github.com/timelessover/blog/issues/77)
 
-  </details>
-  <details>
+
+</details>
+
+<details>
   <summary>TypeScript专题</summary>
 
 
