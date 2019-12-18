@@ -3,7 +3,6 @@ var sortedArrayToBST = function (nums) {
 
     if (nums.length === 1) return new TreeNode(nums[0]);
     // var mid = nums.length / 2;
-    //注意此处需要用到parseInt()函数将结果转化为整数
     var mid = Math.floor(nums.length / 2);
 
     var root = new TreeNode(nums[mid]);
