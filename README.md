@@ -68,7 +68,8 @@
 
 <details>
   <summary>TypeScript专题</summary>
-
+  
+- [TypeScript基础总结](https://github.com/timelessover/blog/tree/master/typescirpt)
 
   </details>
 
