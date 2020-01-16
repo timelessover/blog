@@ -60,7 +60,9 @@
 - [ES6专题之 Iterator（遍历器） 实战（七）](https://github.com/timelessover/blog/issues/75)
 - [ES6专题之 Set 与 Map 数据结构（八）](https://github.com/timelessover/blog/issues/76)
 - [ES6专题之从浏览器运行机制理解异步（九）](https://github.com/timelessover/blog/issues/77)
-- [ES6专题之Class语法与构造函数的比较（十）](https://github.com/timelessover/blog/issues/78)
+- [ES6专题之对比Class语法与构造函数（十）](https://github.com/timelessover/blog/issues/78)
+- [ES6系列之对比Class继承与构造函数继承（十一）](https://github.com/timelessover/blog/issues/80)
+- [ES6系列之模块化开发总结（十二）](https://github.com/timelessover/blog/issues/81)
 
 </details>
 
