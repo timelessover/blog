@@ -1,7 +1,3 @@
-# :+1:座右铭
-
-> 少一些功利主义的追求，多一些不为什么的坚持！
-
 ## HTML
 
 <details>
@@ -50,17 +46,30 @@
 - [JavaScript进阶专题之乱序数组（七）](https://github.com/timelessover/blog/issues/66)
 - [JavaScript进阶专题之函数式编程（八）](https://github.com/timelessover/blog/issues/67)
 
+</details>
+
+<details>
+  <summary>ES6专题（进行中）</summary>
+  
+- [ES6专题之从 Babel 编译分析 const 和 let（一）](https://github.com/timelessover/blog/issues/69)
+- [ES6专题之从 Babel 编译分析解构赋值（二）](https://github.com/timelessover/blog/issues/70)
+- [ES6专题之从 Babel 编译分析字符串模板（三）](https://github.com/timelessover/blog/issues/71)
+- [ES6专题之浅析箭头函数（四）](https://github.com/timelessover/blog/issues/72)
+- [ES6专题之从 Babel 编译分析扩展运算符（五）](https://github.com/timelessover/blog/issues/73)
+- [ES6专题之浅析 Symbol 类型（六）](https://github.com/timelessover/blog/issues/74)
+- [ES6专题之 Iterator（遍历器） 实战（七）](https://github.com/timelessover/blog/issues/75)
+- [ES6专题之 Set 与 Map 数据结构（八）](https://github.com/timelessover/blog/issues/76)
+- [ES6专题之从浏览器运行机制理解异步（九）](https://github.com/timelessover/blog/issues/77)
+- [ES6专题之对比Class语法与构造函数（十）](https://github.com/timelessover/blog/issues/78)
+- [ES6系列之对比Class继承与构造函数继承（十一）](https://github.com/timelessover/blog/issues/80)
+- [ES6系列之模块化开发总结（十二）](https://github.com/timelessover/blog/issues/81)
 
 </details>
 
 <details>
-  <summary>ES6专题</summary>
-
-
-  </details>
-  <details>
   <summary>TypeScript专题</summary>
-
+  
+- [TypeScript基础总结](https://github.com/timelessover/blog/tree/master/typescirpt)
 
   </details>
 
@@ -164,12 +173,17 @@
   <summary>Node专题</summary>
 
 </details>
+
 <details>
   <summary>Python专题</summary>
 
 </details>
 <details>
   <summary>Golang专题</summary>
+
+</details>
+<details>
+  <summary>数据库专题</summary>
 
 </details>
 
@@ -189,12 +203,15 @@
 
 ## 其他
 <details>
-  <summary>Web性能优化</summary>
+  <summary>Web性能优化与安全</summary>
 
 </details>
 
 <details>
-  <summary>Web安全化</summary>
+  <summary>浏览器工作原理</summary>
+
+- [Chrome架构（一）](https://github.com/timelessover/blog/issues/68)
+
 </details>
 
 <details>
@@ -203,3 +220,13 @@
 - [Git总结](https://github.com/timelessover/blog/issues/41)
 
 </details>
+
+<details>
+  <summary>年终总结</summary>
+
+- [2019年终总结](https://github.com/timelessover/blog/issues/79)
+
+</details>
+
+
+
