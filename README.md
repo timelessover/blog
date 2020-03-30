@@ -155,11 +155,18 @@
 ## 前端框架
 
 <details>
+  <summary>TypeScript专题</summary>
+  
+- [TypeScript基础总结](https://github.com/timelessover/blog/tree/master/typescirpt)
+
+  </details>
+
+<details>
   <summary>Vue专题（进行中）</summary>
 
 - [Vue专题之生命周期（一）](https://github.com/timelessover/blog/issues/34)
 - [Vue专题之computed与watch原理（二）](https://github.com/timelessover/blog/issues/83)
-
+- [Vue专题之v-if、v-show、v-html 的原理（三）](https://github.com/timelessover/blog/issues/84)
 </details>
 
 
