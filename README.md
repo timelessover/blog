@@ -162,6 +162,7 @@
 - [Vue专题之v-if、v-show、v-html 的原理（三）](https://github.com/timelessover/blog/issues/84)
 - [Vue专题之Vue专题之数组方法(四）](https://github.com/timelessover/blog/issues/85)
 - [Vue专题之响应式原理（五）](https://github.com/timelessover/blog/issues/86)
+- [Vue专题之异步更新机制(六) ](https://github.com/timelessover/blog/issues/87)
 
 </details>
 
