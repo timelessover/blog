@@ -63,6 +63,8 @@
 - [ES6专题之对比Class语法与构造函数（十）](https://github.com/timelessover/blog/issues/78)
 - [ES6系列之对比Class继承与构造函数继承（十一）](https://github.com/timelessover/blog/issues/80)
 - [ES6系列之模块化开发总结（十二）](https://github.com/timelessover/blog/issues/81)
+- [ES6系列之Proxy代理（十三）](https://github.com/timelessover/blog/issues/88)
+
 
 </details>
 
