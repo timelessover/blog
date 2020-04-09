@@ -63,6 +63,8 @@
 - [ES6专题之对比Class语法与构造函数（十）](https://github.com/timelessover/blog/issues/78)
 - [ES6系列之对比Class继承与构造函数继承（十一）](https://github.com/timelessover/blog/issues/80)
 - [ES6系列之模块化开发总结（十二）](https://github.com/timelessover/blog/issues/81)
+- [ES6系列之Proxy代理（十三）](https://github.com/timelessover/blog/issues/88)
+
 
 </details>
 
@@ -158,12 +160,17 @@
   <summary>Vue专题（进行中）</summary>
 
 - [Vue专题之生命周期（一）](https://github.com/timelessover/blog/issues/34)
+- [Vue专题之computed与watch原理（二）](https://github.com/timelessover/blog/issues/83)
+- [Vue专题之v-if、v-show、v-html 的原理（三）](https://github.com/timelessover/blog/issues/84)
+- [Vue专题之Vue专题之数组方法(四）](https://github.com/timelessover/blog/issues/85)
+- [Vue专题之响应式原理（五）](https://github.com/timelessover/blog/issues/86)
+- [Vue专题之异步更新机制(六) ](https://github.com/timelessover/blog/issues/87)
 
 </details>
 
 
 <details>
-  <summary>React专题</summary>
+  <summary>React专题（进行中）</summary>
 
 </details>
 
@@ -218,6 +225,7 @@
   <summary>前端工程化（进行中）</summary>
 
 - [Git总结](https://github.com/timelessover/blog/issues/41)
+- [手摸手教你搭建一个react脚手架](https://github.com/timelessover/blog/issues/82)
 
 </details>
 
