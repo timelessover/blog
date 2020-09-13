@@ -1,3 +1,6 @@
+## 通知！！！
+新增博客会在语雀平台更新，地址：https://www.yuque.com/liuyanping-uxwgm
+
 ## HTML
 
 <details>
